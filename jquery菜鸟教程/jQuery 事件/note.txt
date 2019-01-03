@@ -1,0 +1,78 @@
+jQuery 事件
+
+jquery是为事件处理特别设计的
+
+什么是事件?
+
+页面对不同访问者的响应叫做事件
+事件处理程序指的是当html中发生某些事件时所调用的方法
+
+实例
+1. 在元素上移动鼠标
+2.选取单选按钮
+3.点击元素
+
+在事件中经常使用术语"触发"(或激发)
+
+常见 DOM 事件：
+
+鼠标事件	键盘事件	表单事件	文档/窗口事件
+click	keypress	submit	load
+dblclick	keydown	change	resize
+mouseenter	keyup	focus	scroll
+mouseleave	hover	blur	unload
+
+jQuery 事件方法语法
+
+在jquery中,大多数dom事件都有一个等效的jquery方法
+页面中指定一个点击事件:  $("p").click();
+下一步是定义什么什么时间触发事件.可以通过一个事件函数实现:
+$("p").click(function(){
+// 动作触发后执行的代码!});
+$(document).ready()
+1. $(document).ready()方法允许我们在文档完全加载后执行函数.
+
+click() 方法是当按钮点击事件触发时会调用一个函数
+该函数在用户点击html元素时执行
+例子中,当点击事件在某个<p>元素上触发时,隐藏当前的<p>元素
+dbclick() 当双击元素时,会发生dbclick事件
+dbclick()方法触发dbclick事件,或规定当发生dbclick事件时运行的函数
+
+mouseenter() 
+当鼠标指针穿过元素时,会发送mouseenter事件
+mouseenter()方法触发mouseenter事件,或规定当发生mouseenter事件时运行的函数
+
+mouseleave()
+
+当鼠标指针离开元素时,会发生mouseleave事件.mouseleave()方法
+mouseleave()方法触发mouseleave事件,或规定当发生mouseleave事件时运行的而函数
+
+mousedown()
+
+当鼠标指针移动到元素上方，并按下鼠标按键时，会发生 mousedown 事件。
+
+mousedown() 方法触发 mousedown 事件，或规定当发生 mousedown 事件时运行的函数：
+
+
+mouseup()
+当在元素上松开鼠标按钮时，会发生 mouseup 事件。
+
+mouseup() 方法触发 mouseup 事件，或规定当发生 mouseup 事件时运行的函数：
+
+
+hover()
+hover()方法用于模拟光标悬停事件。
+
+当鼠标移动到元素上时，会触发指定的第一个函数(mouseenter);当鼠标移出这个元素时，会触发指定的第二个函数(mouseleave)。
+
+focus()
+当元素获得焦点时，发生 focus 事件。
+
+当通过鼠标点击选中元素或通过 tab 键定位到元素时，该元素就会获得焦点。
+
+focus() 方法触发 focus 事件，或规定当发生 focus 事件时运行的函数：
+
+blur()
+当元素失去焦点时，发生 blur 事件。
+
+blur() 方法触发 blur 事件，或规定当发生 blur 事件时运行的函数：

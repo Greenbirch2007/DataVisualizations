@@ -1,0 +1,47 @@
+jQuery 语法
+
+通过jquery,可以选取(查询,query)html元素,并对它们进行"操作"(actions)
+
+jquery语法是通过选取html元素,并对选取的元素执行某些操作
+
+基础语法:$(selector).actions()
+
+1.美元符号定义jquery
+2.选择符号(selector)"查询"和"查找"html元素
+3.jquery的actions执行对元素的操作
+
+实例:
+
+$(this).hide()---隐藏当前元素
+$('p').hide()---隐藏当前所有<p>元素
+$("p.test").hide()-- 隐藏所有class="test"的<p>元素
+$('#test').hide()---隐藏所有id='test'的元素
+
+文档就绪事件
+
+jquery函数位于一个document ready函数中
+
+$(document).ready(function(){
+// 开始写jquery代码
+})
+
+这是为了防止文档在完全加载(就绪)之前运行jquery代码,即在dom进行操作
+如果在文档没有完全加载之前就运行函数,操作可能识别,如下
+1. 试图隐藏一个不存在的元素
+2. 获得未完全加载的图像的大小
+
+
+简洁写法:
+
+$(function(){
+// 开始写jquery代码...});
+
+
+javascript入口函数
+
+window.onload = function(){
+//执行代码}
+
+jquery入口函数与javascript入口函数的区别
+1.jquery的入口函数是在html所有标签(DOM)都加载之后,就会去执行
+2.javascript的window.onload事件是等到所有内容,包括尾部图片之类的文件加载完后,才会执行

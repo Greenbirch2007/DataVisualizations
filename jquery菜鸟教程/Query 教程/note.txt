@@ -1,0 +1,9 @@
+jQuery 教程
+jQuery 是一个 JavaScript 库。
+
+jQuery 极大地简化了 JavaScript 编程。
+
+jQuery 很容易学习。
+
+本章节的每一篇都包含了在线实例
+通过本站的在线编辑器，你可以在线运行修改后的代码，并查看运行结果。

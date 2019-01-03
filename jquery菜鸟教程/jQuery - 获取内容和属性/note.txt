@@ -1,0 +1,75 @@
+jQuery - 获取内容和属性
+jQuery 拥有可操作 HTML 元素和属性的强大方法。
+
+jQuery DOM 操作
+jQuery 中非常重要的部分，就是操作 DOM 的能力。
+
+jQuery 提供一系列与 DOM 相关的方法，这使访问和操作元素和属性变得很容易。
+
+lamp	DOM = Document Object Model（文档对象模型）
+
+DOM 定义访问 HTML 和 XML 文档的标准：
+
+"W3C 文档对象模型独立于平台和语言的界面，允许程序和脚本动态访问和更新文档的内容、结构以及样式。"
+
+
+
+获得内容 - text()、html() 以及 val()
+三个简单实用的用于 DOM 操作的 jQuery 方法：
+
+text() :设置或返回所选元素的文本内容
+html():设置或返回所选元素的内容(包括html标记)
+val(): 设置或返回表单字段的值
+
+下面的例子演示如何通过 jQuery text() 和 html() 方法来获得内容：
+
+
+获取属性 - attr()
+jQuery attr() 方法用于获取属性值。
+
+下面的例子演示如何获得链接中 href 属性的值：
+
+
+attr 和 prop 的区别介绍：
+
+对于 HTML 元素本身就带有的固有属性，在处理时，使用 prop 方法。
+
+对于 HTML 元素我们自己自定义的 DOM 属性，在处理时，使用 attr 方法。
+
+实例 1：
+
+<a href="https://www.runoob.com" target="_self" class="btn">菜鸟教程</a>
+这个例子里 <a> 元素的 DOM 属性有: href、target 和 class，这些属性就是 <a> 元素本身就带有的属性，也是 W3C 标准里就包含有这几个属性，或者说在 IDE 里能够智能提示出的属性，这些就叫做固有属性。处理这些属性时，建议使用 prop 方法。
+
+<a href="#" id="link1" action="delete" rel="nofollow">删除</a>
+这个例子里 <a> 元素的 DOM 属性有: href、id 和 action，很明显，前两个是固有属性，而后面一个 action 属性是我们自己自定义上去的，<a> 元素本身是没有这个属性的。这种就是自定义的 DOM 属性。处理这些属性时，建议使用 attr 方法。
+
+rayue
+   rayue
+
+  991***703@qq.com
+
+   参考地址
+
+7个月前 (05-30)
+   zeng
+
+  286***8748@qq.com
+
+prop()函数的结果:
+
+      1.如果有相应的属性，返回指定属性值。
+
+      2.如果没有相应的属性，返回值是空字符串。
+
+attr()函数的结果:
+
+      1.如果有相应的属性，返回指定属性值。
+
+      2.如果没有相应的属性，返回值是undefined。
+
+对于HTML元素本身就带有的固有属性，在处理时，使用prop方法。
+
+对于HTML元素我们自己自定义的DOM属性，在处理时，使用attr方法。
+
+具有 true 和 false 两个属性的属性，如 checked, selected 或者 disabled 使用prop()

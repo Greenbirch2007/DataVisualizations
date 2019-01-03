@@ -1,0 +1,72 @@
+jQuery 效果- 隐藏和显示
+隐藏、显示、切换，滑动，淡入淡出，以及动画，哇哦！
+
+点击 显示/隐藏面板
+
+实例
+jQuery hide()
+简单的jQuery hide()方法演示。
+
+jQuery hide()
+另一个hide()实例。演示如何隐藏文本。
+
+$(selector).hide(speed,callback);
+
+$(selector).show(speed,callback);
+可选的 speed 参数规定隐藏/显示的速度，可以取以下值："slow"、"fast" 或毫秒。
+
+可选的 callback 参数是隐藏或显示完成后所执行的函数名称。
+
+下面的例子演示了带有 speed 参数的 hide() 方法：
+
+实例
+$("button").click(function(){
+  $("p").hide(1000);
+});
+
+
+第二个参数是一个字符串，表示过渡使用哪种缓动函数。（译者注：jQuery自身提供"linear" 和 "swing"，其他可以使用相关的插件）。
+
+
+jQuery toggle()
+通过 jQuery，您可以使用 toggle() 方法来切换 hide() 和 show() 方法。
+
+显示被隐藏的元素，并隐藏已显示的元素：
+
+
+
+语法:
+
+$(selector).toggle(speed,callback);
+可选的 speed 参数规定隐藏/显示的速度，可以取以下值："slow"、"fast" 或毫秒。
+
+可选的 callback 参数是隐藏或显示完成后所执行的函数名称。
+
+
+   曼曼
+
+  219***4704@qq.com
+
+对于可选的 callback 参数，有以下两点说明：
+
+1.$(selector)选中的元素的个数为n个，则callback函数会执行n次；
+
+2.callback函数名后加括号，会立刻执行函数体，而不是等到显示/隐藏完成后才执行；
+
+3.callback既可以是函数名，也可以是匿名函数；
+
+曼曼
+   曼曼
+
+  219***4704@qq.com
+
+2年前 (2017-06-29)
+   小kuoai
+
+  112***1263@qq.com
+
+对于楼上，总结的很到位，补充一点：
+
+$(selector) 选中的元素的个数为 n 个，则 callback 函数会执行 n 次。
+
+对于这里，当 callback 函数加上括号时，函数立即执行，只会调用一次， 如果不加括号，元素显示或隐藏后调用函数，才会调用多次。

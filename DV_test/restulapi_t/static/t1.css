@@ -1,0 +1,6 @@
+.highcharts-axis-resizer {
+    stroke: #eee;
+}
+.highcharts-axis-resizer:hover {
+    stroke: #ccc;
+}
