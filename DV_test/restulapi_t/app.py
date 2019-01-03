@@ -7,9 +7,11 @@ app = Flask(__name__)
 
 
 
-@app.route('/data')
+@app.route('/data') # 数据必须同时考虑x轴和y轴
 def api():
-    return jsonify([{'title':'tst','data':[12908, 5948, 8105, 11248, 8989, 11816, 18274, 18111]}]) #　需要特别序列化
+    return jsonify({"name":"Greenbirch2007",
+                    "id":'000001',
+                    "data":[[1,135],[2,136],[3,137],[4,133],[5,136],[6,169]]})#　需要特别序列化
 
 @app.route('/api')
 def showapi():
