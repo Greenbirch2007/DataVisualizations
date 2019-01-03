@@ -1,3 +1,4 @@
+
 1.?开头，一个圆括号，里面有一个中括号，数据用列表对的形式出现
 
 ?([ [1370131200000, 0.7695], [1370217600000, 0.7648], [1435622400000,0.895]])
@@ -283,5 +284,161 @@ var elevationData = [
                [180.3, 73.2], [167.6, 76.3], [183.0, 65.9], [183.0, 90.9], [179.1, 89.1],
                [170.2, 62.3], [177.8, 82.7], [179.1, 79.1], [190.5, 98.2], [177.8, 84.1],
                [180.3, 83.2], [180.3, 83.2]]
+
+
+11. 选取json中的data键的值的前两项（用到了Highchart的其他语法）
+
+{"code":1,"msg":"操作成功！","data":[[1416182400000,7.204,7.232,7.037,7.072,889594.5]]}
+
+
+
+    data = data.data;
+    // 去掉多余的数据
+    Highcharts.each(data, function(d) {
+        d.length = 2;
+    });
+    Highcharts.stockChart('container', {
+        rangeSelector: {
+            selected: 2
+        },
+
+        series: [{
+            // type: 'line',
+            id: '000001',
+            name: '平安银行',
+            data: data
+        }]
+
+
+借鉴jquery的函数
+jquery.each(callback) : 以每一个匹配的元素作为上下文来执行一个函数
+jquery.length/size():  jquery对象中的元素个数
+jquery.selector　　：返回选择此元素的选择器(用于插件开发)
+
+１２．　　百分比的数据设置(再好好理解一下)
+
+var seriesOptions = [],
+		seriesCounter = 0,
+		names = ['MSFT', 'AAPL', 'GOOG'],
+		// create the chart when all data is loaded
+		createChart = function () {
+				Highcharts.stockChart('container', {
+						rangeSelector: {
+								selected: 4
+						},
+						yAxis: {
+								labels: {
+										formatter: function () {
+												return (this.value > 0 ? ' + ' : '') + this.value + '%';
+										}
+								},
+								plotLines: [{
+										value: 0,
+										width: 2,
+										color: 'silver'
+								}]
+						},
+						plotOptions: {
+								series: {
+										compare: 'percent'
+								}
+						},
+						tooltip: {
+								pointFormat: '<span style="color:{series.color}">{series.name}</span>: <b>{point.y}</b> ({point.change}%)<br/>',
+								valueDecimals: 2
+						},
+						series: seriesOptions
+				});
+		};
+$.each(names, function (i, name) {
+		$.getJSON('https://data.jianshukeji.com/jsonp?filename=json/' + name.toLowerCase() + '-c.json&callback=?',    function (data) {
+				seriesOptions[i] = {
+						name: name,
+						data: data
+				};
+				// As we're loading the data asynchronously, we don't know what order it will arrive. So
+				// we keep a counter and create the chart when all the data is loaded.
+				seriesCounter += 1;
+				if (seriesCounter === names.length) {
+						createChart();
+				}
+		});
+});
+
+
+１３．　　增加横向移动的部分(不再是多重跳空)
+
+		series: [{
+						name: 'AAPL Stock Price',
+						data: data,
+						step: true,
+						tooltip: {
+								valueDecimals: 2
+
+
+14.  标示出走势图中的最大值和最小值
+https://www.hcharts.cn/demo/highstock/yaxis-plotlines　　
+
+
+
+
+
+
+
+
+$.getJSON('https://data.jianshukeji.com/jsonp?filename=json/usdeur.json&callback=?', function (data) {
+		var startDate = new Date(data[data.length - 1][0]), // Get year of last data point
+				minRate = 1,
+				maxRate = 0,
+				startPeriod,
+				date,
+				rate,
+				index;
+		startDate.setMonth(startDate.getMonth() - 3); // a quarter of a year before last data point
+		startPeriod = Date.UTC(startDate.getFullYear(), startDate.getMonth(), startDate.getDate());
+		for (index = data.length - 1; index >= 0; index = index - 1) {
+				date = data[index][0]; // data[i][0] is date
+				rate = data[index][1]; // data[i][1] is exchange rate
+				if (date < startPeriod) {
+						break; // stop measuring highs and lows
+				}
+				if (rate > maxRate) {
+						maxRate = rate;
+				}
+				if (rate < minRate) {
+						minRate = rate;
+				}
+		}
+
+				series: [{
+						name: 'USD to EUR',
+						data: data,
+						tooltip: {
+								valueDecimals: 4
+						}
+				}]
+
+
+１５．ｙ轴标示(比如标示出收益率大于１５％或在２０％－３０％之间的区域)
+
+$.getJSON('https://data.jianshukeji.com/jsonp?filename=json/usdeur.json&callback=?', function (data) {
+		var startDate = new Date(data[data.length - 1][0]),
+				minRate = 1,
+				maxRate = 0,
+				startPeriod,
+				date,
+				rate,
+				index;
+		startDate.setMonth(startDate.getMonth() - 3); // a quarter of a year before last data point
+		startPeriod = Date.UTC(startDate.getFullYear(), startDate.getMonth(), startDate.getDate());
+		for (index = data.length - 1; index >= 0; index = index - 1) {
+				date = data[index][0]; // data[i][0] is date
+				rate = data[index][1]; // data[i][1] is exchange rate
+				if (date < startPeriod) {
+						break; // stop measuring highs and lows
+				}
+				if (rate > maxRate) {
+						maxRate = rate;
+
 
 
