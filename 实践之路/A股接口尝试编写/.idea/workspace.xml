@@ -2,238 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b26bc71a-5b00-451d-9689-857d1765dc56" name="Default Changelist" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../python的建议.xls" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/DV_test/.idea/DV_test.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/DV_test/.idea/encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/DV_test/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/DV_test/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/DV_test/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/DV_test/Highcharts文档整理/Highcharts.xls" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/DV_test/JSON 语法是 JavaScript 语法的子集。.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/DV_test/restulapi_t/.idea/encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/DV_test/restulapi_t/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/DV_test/restulapi_t/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/DV_test/restulapi_t/.idea/restulapi_t.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/DV_test/restulapi_t/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/DV_test/restulapi_t/app.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/DV_test/restulapi_t/dataConfig.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/DV_test/restulapi_t/static/highcharts.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/DV_test/restulapi_t/static/jquery-3.0.0.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/DV_test/restulapi_t/static/myapi.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/DV_test/restulapi_t/static/mycode.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/DV_test/restulapi_t/static/percent.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/DV_test/restulapi_t/static/percent.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/DV_test/restulapi_t/static/random.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/DV_test/restulapi_t/static/readjson.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/DV_test/restulapi_t/static/t1.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/DV_test/restulapi_t/static/t1.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/DV_test/restulapi_t/templates/PL_api.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/DV_test/restulapi_t/templates/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/DV_test/restulapi_t/templates/myapi.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/DV_test/restulapi_t/templates/percent.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/DV_test/restulapi_t/templates/random.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/DV_test/restulapi_t/templates/readn_json.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/DV_test/接口数据的种类统计整理.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts_Django/test.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts_Flask/StockData_V/flask_api/J_api/Static/exporting.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts_Flask/StockData_V/flask_api/J_api/Static/highcharts-zh_CN.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts_Flask/StockData_V/flask_api/J_api/Static/highcharts.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts_Flask/StockData_V/flask_api/J_api/Static/jquery-3.0.0.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts_Flask/StockData_V/flask_api/J_api/Static/jquery-3.0.0.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts_Flask/StockData_V/flask_api/J_api/Static/oldie.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts_Flask/StockData_V/flask_api/J_api/Static/series-label.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts_Flask/StockData_V/flask_api/J_api/Templates/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts_Flask/StockData_V/flask_api/J_api/app.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts_Flask/test_higcharts/app.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts_Flask/test_higcharts/static/datajs.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts_Flask/test_higcharts/static/highcharts.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts_Flask/test_higcharts/static/jquery-3.0.0.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts_Flask/test_higcharts/templates/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts_Flask/test_higcharts/templates/test.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts官网教程/Highcharts_using.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts官网教程/highcharts下载包文件目录.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts菜鸟教程/3d图/highcharts_3d_column.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts菜鸟教程/3d图/highcharts_3d_column_null.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts菜鸟教程/3d图/highcharts_3d_donut.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts菜鸟教程/3d图/highcharts_3d_pie.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts菜鸟教程/3d图/highcharts_3d_stacking.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts菜鸟教程/HighchartsTest.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts菜鸟教程/HighchartsTest.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts菜鸟教程/Notes.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts菜鸟教程/demo_source/highcharts.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts菜鸟教程/demo_source/jquery-3.0.0.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts菜鸟教程/动态图/highcharts_dynamic_click.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts菜鸟教程/动态图/highcharts_dynamic_spline.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts菜鸟教程/区域图/highcharts_area_basic.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts菜鸟教程/区域图/highcharts_area_inverted.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts菜鸟教程/区域图/highcharts_area_missing.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts菜鸟教程/区域图/highcharts_area_negative.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts菜鸟教程/区域图/highcharts_area_percentage.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts菜鸟教程/区域图/highcharts_area_range.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts菜鸟教程/区域图/highcharts_area_rangeline.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts菜鸟教程/区域图/highcharts_area_spline.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts菜鸟教程/区域图/highcharts_area_stacked.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts菜鸟教程/散点图/highcharts_scatter_basic.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts菜鸟教程/曲线图/X轴翻转曲线图/highcharts_spline_inverted.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts菜鸟教程/曲线图/demo_source＿curve/highcharts.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts菜鸟教程/曲线图/demo_source＿curve/jquery-3.0.0.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts菜鸟教程/曲线图/不规则时间间隔图表/highcharts_spline_time.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts菜鸟教程/曲线图/图表异步加载数据/highcharts_line_ajax.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts菜鸟教程/曲线图/图表异步加载数据/static/code_js.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts菜鸟教程/曲线图/图表异步加载数据/static/data.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts菜鸟教程/曲线图/图表异步加载数据/static/highcharts.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts菜鸟教程/曲线图/图表异步加载数据/static/jquery-3.0.0.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts菜鸟教程/曲线图/基本曲线图表/demo_source＿curve/code_js.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts菜鸟教程/曲线图/基本曲线图表/demo_source＿curve/highcharts.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts菜鸟教程/曲线图/基本曲线图表/demo_source＿curve/jquery-3.0.0.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts菜鸟教程/曲线图/基本曲线图表/highcharts_line_basic.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts菜鸟教程/曲线图/对数 x 轴/highcharts_line_logarithmic.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts菜鸟教程/曲线图/带有数据标签图表/highcharts_line_labels.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts菜鸟教程/曲线图/带有数据标签图表/staic/code_js.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts菜鸟教程/曲线图/带有数据标签图表/staic/highcharts.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts菜鸟教程/曲线图/带有数据标签图表/staic/jquery-3.0.0.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts菜鸟教程/曲线图/带标记曲线图/highcharts_spline_symbols.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts菜鸟教程/曲线图/时间序列，可缩放的图表/highcharts_line_time.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts菜鸟教程/曲线图/时间序列，可缩放的图表/static/highcharts.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts菜鸟教程/曲线图/时间序列，可缩放的图表/static/jquery-3.0.0.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts菜鸟教程/曲线图/标示区曲线图/highcharts_spline_bands.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts菜鸟教程/条形图/highcharts_bar_basic.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts菜鸟教程/条形图/highcharts_bar_negative.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts菜鸟教程/条形图/highcharts_bar_stacked.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts菜鸟教程/柱形图/highcharts_column_basic.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts菜鸟教程/柱形图/highcharts_column_drilldown.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts菜鸟教程/柱形图/highcharts_column_fixed.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts菜鸟教程/柱形图/highcharts_column_negative.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts菜鸟教程/柱形图/highcharts_column_percentage.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts菜鸟教程/柱形图/highcharts_column_range.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts菜鸟教程/柱形图/highcharts_column_rotated.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts菜鸟教程/柱形图/highcharts_column_rotated.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts菜鸟教程/柱形图/highcharts_column_stacked.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts菜鸟教程/柱形图/highcharts_column_table.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts菜鸟教程/树状图/highcharts_tree_largemap.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts菜鸟教程/树状图/highcharts_tree_levels.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts菜鸟教程/树状图/highcharts_tree_map.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts菜鸟教程/气泡图/highcharts_bubble_3d.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts菜鸟教程/气泡图/highcharts_bubble_basic.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts菜鸟教程/测量图/highcharts_guage_angular.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts菜鸟教程/测量图/highcharts_guage_clock.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts菜鸟教程/测量图/highcharts_guage_dualaxes.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts菜鸟教程/测量图/highcharts_guage_solid.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts菜鸟教程/测量图/highcharts_vumeter.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts菜鸟教程/组合图/highcharts_combinations_axes.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts菜鸟教程/组合图/highcharts_combinations_column.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts菜鸟教程/组合图/highcharts_combinations_dualaxes.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts菜鸟教程/组合图/highcharts_combinations_scatter.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts论坛爬虫/highcharts_forum.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts论坛爬虫/highcharts_forum.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/Highcharts论坛爬虫/hightcharts series接收动态数据问题/T1_3.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/REST_API_20181228/.idea/REST_API_20181228.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/REST_API_20181228/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/REST_API_20181228/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/REST_API_20181228/20150529143226385" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/REST_API_20181228/REST_Chat/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/REST_API_20181228/REST_Chat/js/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/REST_API_20181228/note.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/jquery菜鸟教程/.idea/encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/jquery菜鸟教程/.idea/jquery菜鸟教程.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/jquery菜鸟教程/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/jquery菜鸟教程/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/jquery菜鸟教程/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/jquery菜鸟教程/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/jquery菜鸟教程/Query 教程/note.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/jquery菜鸟教程/Query 教程/t.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/jquery菜鸟教程/jQuery - AJAX 简介/note.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/jquery菜鸟教程/jQuery - AJAX 简介/static/demo_test.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/jquery菜鸟教程/jQuery - AJAX 简介/t.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/jquery菜鸟教程/jQuery - 删除元素/note.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/jquery菜鸟教程/jQuery - 删除元素/t.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/jquery菜鸟教程/jQuery - 添加元素/note.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/jquery菜鸟教程/jQuery - 添加元素/t.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/jquery菜鸟教程/jQuery - 获取内容和属性/note.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/jquery菜鸟教程/jQuery - 获取内容和属性/t.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/jquery菜鸟教程/jQuery - 获取并设置 CSS 类/note.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/jquery菜鸟教程/jQuery - 获取并设置 CSS 类/t.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/jquery菜鸟教程/jQuery - 链(Chaining)/note.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/jquery菜鸟教程/jQuery - 链(Chaining)/t.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/jquery菜鸟教程/jQuery Callback 方法/note.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/jquery菜鸟教程/jQuery Callback 方法/t.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/jquery菜鸟教程/jQuery css() 方法/note.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/jquery菜鸟教程/jQuery css() 方法/t.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/jquery菜鸟教程/jQuery 事件/note.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/jquery菜鸟教程/jQuery 事件/t.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/jquery菜鸟教程/jQuery 停止动画/note.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/jquery菜鸟教程/jQuery 停止动画/t.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/jquery菜鸟教程/jQuery 安装/note.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/jquery菜鸟教程/jQuery 安装/t.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/jquery菜鸟教程/jQuery 尺寸.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/jquery菜鸟教程/jQuery 尺寸/note.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/jquery菜鸟教程/jQuery 尺寸/t.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/jquery菜鸟教程/jQuery 效果 - 淡入淡出/note.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/jquery菜鸟教程/jQuery 效果 - 淡入淡出/t.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/jquery菜鸟教程/jQuery 效果 - 滑动/note.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/jquery菜鸟教程/jQuery 效果 - 滑动/t.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/jquery菜鸟教程/jQuery 效果 – 动画/note.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/jquery菜鸟教程/jQuery 效果 – 动画/t.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/jquery菜鸟教程/jQuery 效果- 隐藏和显示/note.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/jquery菜鸟教程/jQuery 效果- 隐藏和显示/t.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/jquery菜鸟教程/jQuery 简介/note.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/jquery菜鸟教程/jQuery 简介/t.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/jquery菜鸟教程/jQuery 语法/note.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/jquery菜鸟教程/jQuery 语法/t.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/jquery菜鸟教程/jQuery 语法/两个入口函数的写法.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/jquery菜鸟教程/jQuery 选择器/note.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/jquery菜鸟教程/jQuery 选择器/t.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/jquery菜鸟教程/jQuery 遍历 - 祖先/note.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/jquery菜鸟教程/jQuery 遍历 - 祖先/t.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/jquery菜鸟教程/jQuery 遍历/note.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/jquery菜鸟教程/jQuery 遍历/t.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/jquery菜鸟教程/jquery遍历.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/前端如何调用接口数据/数据处理/1、 创建服务器接口.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/前端如何调用接口数据/数据处理/2、 初始化图表.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/前端如何调用接口数据/数据处理/2、jQury.get.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/前端如何调用接口数据/数据处理/3、 调用数据接口并更新图表.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/前端如何调用接口数据/数据处理/Ajax的restful接口传输Json数据的方法.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/前端如何调用接口数据/数据处理/JSON 文件内容.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/前端如何调用接口数据/数据处理/js ajax调用rest接口.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/前端如何调用接口数据/数据处理/web前端使用jQuery发送ajax请求并接受响应的代码公式.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/前端如何调用接口数据/数据处理/一、jQuery 中 Ajax 相关的函数.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/前端如何调用接口数据/数据处理/动态渲染的优缺点.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/前端如何调用接口数据/数据处理/导出数据的浏览器对比.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/前端如何调用接口数据/数据处理/数据处理和交互.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/前端如何调用接口数据/数据处理/数据来源.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/前端如何调用接口数据/数据处理/数据类型.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/前端如何调用接口数据/数据处理/服务端动态渲染图表.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/前端如何调用接口数据/数据处理/用 CSV 数据创建图表.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/前端如何调用接口数据/数据处理/读取 JSON 并创建图表.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/前端如何调用接口数据/深度截图_选择区域_20181220150858.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/前端如何调用接口数据/深度截图_选择区域_20181220150921.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/前端如何调用接口数据/深度截图_选择区域_20181220150952.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/前端如何调用接口数据/深度截图_选择区域_20181220151158.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/前端如何调用接口数据/深度截图_选择区域_20181220151236.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/前端如何调用接口数据/深度截图_选择区域_20181220151248.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/前端如何调用接口数据/深度截图_选择区域_20181220151402.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/前端如何调用接口数据/深度截图_选择区域_20181220151435.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/前端如何调用接口数据/深度截图_选择区域_20181220151448.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/前端如何调用接口数据/深度截图_选择区域_20181220151504.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/前端如何调用接口数据/深度截图_选择区域_20181220151601.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/前端如何调用接口数据/深度截图_选择区域_20181220151629.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/前端调用后端的方法(基于restful接口的mvc架构)/深度截图_选择区域_20181228141503.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/前端调用后端的方法(基于restful接口的mvc架构)/深度截图_选择区域_20181228141517.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/基于 RESTful 接口的前端 MVC 架构/rest-api-for-front-end.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/基于 RESTful 接口的前端 MVC 架构/深度截图_选择区域_20181228143102.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/基于 RESTful 接口的前端 MVC 架构/深度截图_选择区域_20181228143121.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/基于 RESTful 接口的前端 MVC 架构/深度截图_选择区域_20181228143132.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/基于 RESTful 接口的前端 MVC 架构/深度截图_选择区域_20181228143149.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/基于 RESTful 接口的前端 MVC 架构/深度截图_选择区域_20181228143221.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/基于 RESTful 接口的前端 MVC 架构/深度截图_选择区域_20181228143232.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/基于 RESTful 接口的前端 MVC 架构/深度截图_选择区域_20181228143249.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/接口请求爬虫测试（以及其他可用脚本）/S_db.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../动态可视化/接口请求爬虫测试（以及其他可用脚本）/api_spider.py" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../可视化的项目思路.xls" afterPath="$PROJECT_DIR$/../../可视化的项目思路.xls" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/astock_ajax.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/astock_ajax.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -241,21 +13,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Astock_backApi.py" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Astock_backApi.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="95" column="23" lean-forward="false" selection-start-line="95" selection-start-column="23" selection-end-line="95" selection-end-column="23" />
-              <folding />
+            <state relative-caret-position="1335">
+              <caret line="95" column="13" selection-start-line="95" selection-start-column="13" selection-end-line="95" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="astock_ajax.html" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/astock_ajax.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
-              <caret line="15" column="37" lean-forward="false" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+              <caret line="15" column="29" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="34" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -263,34 +34,32 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="astock_ajax.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/static/astock_ajax.js">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/astock.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="179">
-              <caret line="36" column="39" lean-forward="false" selection-start-line="36" selection-start-column="39" selection-end-line="36" selection-end-column="39" />
+            <state relative-caret-position="75">
+              <caret line="5" column="11" selection-end-line="19" selection-end-column="7" />
               <folding>
-                <element signature="n#!!doc" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="astock.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/static/astock.js">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/static/astock_ajax.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="49" column="13" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="49" selection-end-column="13" />
-              <folding />
+            <state relative-caret-position="1125">
+              <caret line="75" selection-start-line="75" selection-end-line="75" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="a50_onestock.py" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/a50_onestock.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1845">
-              <caret line="123" column="31" lean-forward="false" selection-start-line="123" selection-start-column="31" selection-end-line="129" selection-end-column="32" />
-              <folding />
+            <state relative-caret-position="1740">
+              <caret line="123" column="31" selection-start-line="123" selection-start-column="31" selection-end-line="129" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -308,6 +77,7 @@
         <option value="$PROJECT_DIR$/templates/astock.html" />
         <option value="$PROJECT_DIR$/templates/astock_ajax.html" />
         <option value="$PROJECT_DIR$/Astock_backApi.py" />
+        <option value="$PROJECT_DIR$/../../ajax与highcharts百度关键字爬虫/ajax_highcharts.py" />
         <option value="$PROJECT_DIR$/static/astock_ajax.js" />
       </list>
     </option>
@@ -319,57 +89,23 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="130" />
-    <option name="y" value="451" />
-    <option name="width" value="1026" />
-    <option name="height" value="640" />
+    <option name="x" value="330" />
+    <option name="y" value="88" />
+    <option name="width" value="1036" />
+    <option name="height" value="630" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="A股接口尝试编写" type="b2602c69:ProjectViewProjectNode" />
-              <item name="A股接口尝试编写" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="A股接口尝试编写" type="b2602c69:ProjectViewProjectNode" />
-              <item name="A股接口尝试编写" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="A股接口尝试编写" type="b2602c69:ProjectViewProjectNode" />
-              <item name="A股接口尝试编写" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/LIST_learning" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -406,9 +142,6 @@
       <method v="2" />
     </configuration>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -419,58 +152,74 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1546827499515</updated>
-      <workItem from="1546839115799" duration="900000" />
+      <workItem from="1546839115799" duration="1497000" />
+      <workItem from="1546841409986" duration="678000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="900000" />
+    <option name="totallyTimeSpent" value="2175000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="794" y="28" width="1026" height="640" extended-state="0" />
-    <editor active="true" />
+    <frame x="330" y="88" width="1036" height="630" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3323587" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24951267" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
-  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/a50_onestock.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1740">
+          <caret line="123" column="31" selection-start-line="123" selection-start-column="31" selection-end-line="129" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Astock_backApi.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1425">
-          <caret line="95" column="23" lean-forward="false" selection-start-line="95" selection-start-column="23" selection-end-line="95" selection-end-column="23" />
-          <folding />
+        <state relative-caret-position="1335">
+          <caret line="95" column="13" selection-start-line="95" selection-start-column="13" selection-end-line="95" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/astock_ajax.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="29" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="34" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../ajax与highcharts百度关键字爬虫/ajax_highcharts.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/astock.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="5" column="11" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="19" selection-end-column="7" />
+          <caret line="5" column="11" selection-end-line="19" selection-end-column="7" />
           <folding>
             <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
@@ -479,81 +228,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/static/astock.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="39" lean-forward="false" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/a50_onestock.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1845">
-          <caret line="123" column="31" lean-forward="false" selection-start-line="123" selection-start-column="31" selection-end-line="129" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/astock_ajax.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="29" lean-forward="false" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="29" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/a50_onestock.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1845">
-          <caret line="123" column="31" lean-forward="false" selection-start-line="123" selection-start-column="31" selection-end-line="129" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Astock_backApi.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="95" column="23" lean-forward="false" selection-start-line="95" selection-start-column="23" selection-end-line="95" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/astock_ajax.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="37" lean-forward="false" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/astock.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="11" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="19" selection-end-column="7" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/astock.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="49" column="13" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="49" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="135">
+          <caret line="9" column="24" lean-forward="true" selection-end-line="55" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/static/astock_ajax.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="36" column="39" lean-forward="false" selection-start-line="36" selection-start-column="39" selection-end-line="36" selection-end-column="39" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state relative-caret-position="1125">
+          <caret line="75" selection-start-line="75" selection-end-line="75" />
         </state>
       </provider>
     </entry>
