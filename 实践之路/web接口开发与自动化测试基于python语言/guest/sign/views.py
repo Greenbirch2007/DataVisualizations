@@ -7,3 +7,12 @@ from django.http import HttpResponse
 
 def index(request):
     return render(request,'index.html')
+
+
+
+
+
+# 登录动作
+
+def login_aciton(request):
+    if request.met

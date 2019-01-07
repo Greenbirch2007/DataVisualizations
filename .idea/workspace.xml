@@ -2,235 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ccf7f3b5-adf3-4cff-a001-9f1fa8f977aa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/python的建议.xls" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/DV_test/.idea/DV_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/DV_test/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/DV_test/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/DV_test/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/DV_test/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/DV_test/Highcharts文档整理/Highcharts.xls" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/DV_test/JSON 语法是 JavaScript 语法的子集。.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/DV_test/restulapi_t/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/DV_test/restulapi_t/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/DV_test/restulapi_t/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/DV_test/restulapi_t/.idea/restulapi_t.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/DV_test/restulapi_t/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/DV_test/restulapi_t/app.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/DV_test/restulapi_t/dataConfig.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/DV_test/restulapi_t/static/highcharts.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/DV_test/restulapi_t/static/jquery-3.0.0.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/DV_test/restulapi_t/static/myapi.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/DV_test/restulapi_t/static/mycode.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/DV_test/restulapi_t/static/percent.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/DV_test/restulapi_t/static/percent.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/DV_test/restulapi_t/static/random.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/DV_test/restulapi_t/static/readjson.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/DV_test/restulapi_t/static/t1.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/DV_test/restulapi_t/static/t1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/DV_test/restulapi_t/templates/PL_api.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/DV_test/restulapi_t/templates/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/DV_test/restulapi_t/templates/myapi.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/DV_test/restulapi_t/templates/percent.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/DV_test/restulapi_t/templates/random.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/DV_test/restulapi_t/templates/readn_json.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/DV_test/接口数据的种类统计整理.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts_Django/test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts_Flask/StockData_V/flask_api/J_api/Static/exporting.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts_Flask/StockData_V/flask_api/J_api/Static/highcharts-zh_CN.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts_Flask/StockData_V/flask_api/J_api/Static/highcharts.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts_Flask/StockData_V/flask_api/J_api/Static/jquery-3.0.0.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts_Flask/StockData_V/flask_api/J_api/Static/jquery-3.0.0.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts_Flask/StockData_V/flask_api/J_api/Static/oldie.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts_Flask/StockData_V/flask_api/J_api/Static/series-label.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts_Flask/StockData_V/flask_api/J_api/Templates/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts_Flask/StockData_V/flask_api/J_api/app.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts_Flask/test_higcharts/app.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts_Flask/test_higcharts/static/datajs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts_Flask/test_higcharts/static/highcharts.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts_Flask/test_higcharts/static/jquery-3.0.0.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts_Flask/test_higcharts/templates/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts_Flask/test_higcharts/templates/test.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts官网教程/Highcharts_using.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts官网教程/highcharts下载包文件目录.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts菜鸟教程/3d图/highcharts_3d_column.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts菜鸟教程/3d图/highcharts_3d_column_null.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts菜鸟教程/3d图/highcharts_3d_donut.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts菜鸟教程/3d图/highcharts_3d_pie.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts菜鸟教程/3d图/highcharts_3d_stacking.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts菜鸟教程/HighchartsTest.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts菜鸟教程/HighchartsTest.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts菜鸟教程/Notes.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts菜鸟教程/demo_source/highcharts.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts菜鸟教程/demo_source/jquery-3.0.0.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts菜鸟教程/动态图/highcharts_dynamic_click.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts菜鸟教程/动态图/highcharts_dynamic_spline.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts菜鸟教程/区域图/highcharts_area_basic.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts菜鸟教程/区域图/highcharts_area_inverted.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts菜鸟教程/区域图/highcharts_area_missing.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts菜鸟教程/区域图/highcharts_area_negative.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts菜鸟教程/区域图/highcharts_area_percentage.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts菜鸟教程/区域图/highcharts_area_range.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts菜鸟教程/区域图/highcharts_area_rangeline.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts菜鸟教程/区域图/highcharts_area_spline.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts菜鸟教程/区域图/highcharts_area_stacked.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts菜鸟教程/散点图/highcharts_scatter_basic.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts菜鸟教程/曲线图/X轴翻转曲线图/highcharts_spline_inverted.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts菜鸟教程/曲线图/demo_source＿curve/highcharts.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts菜鸟教程/曲线图/demo_source＿curve/jquery-3.0.0.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts菜鸟教程/曲线图/不规则时间间隔图表/highcharts_spline_time.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts菜鸟教程/曲线图/图表异步加载数据/highcharts_line_ajax.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts菜鸟教程/曲线图/图表异步加载数据/static/code_js.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts菜鸟教程/曲线图/图表异步加载数据/static/data.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts菜鸟教程/曲线图/图表异步加载数据/static/highcharts.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts菜鸟教程/曲线图/图表异步加载数据/static/jquery-3.0.0.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts菜鸟教程/曲线图/基本曲线图表/demo_source＿curve/code_js.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts菜鸟教程/曲线图/基本曲线图表/demo_source＿curve/highcharts.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts菜鸟教程/曲线图/基本曲线图表/demo_source＿curve/jquery-3.0.0.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts菜鸟教程/曲线图/基本曲线图表/highcharts_line_basic.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts菜鸟教程/曲线图/对数 x 轴/highcharts_line_logarithmic.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts菜鸟教程/曲线图/带有数据标签图表/highcharts_line_labels.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts菜鸟教程/曲线图/带有数据标签图表/staic/code_js.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts菜鸟教程/曲线图/带有数据标签图表/staic/highcharts.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts菜鸟教程/曲线图/带有数据标签图表/staic/jquery-3.0.0.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts菜鸟教程/曲线图/带标记曲线图/highcharts_spline_symbols.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts菜鸟教程/曲线图/时间序列，可缩放的图表/highcharts_line_time.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts菜鸟教程/曲线图/时间序列，可缩放的图表/static/highcharts.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts菜鸟教程/曲线图/时间序列，可缩放的图表/static/jquery-3.0.0.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts菜鸟教程/曲线图/标示区曲线图/highcharts_spline_bands.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts菜鸟教程/条形图/highcharts_bar_basic.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts菜鸟教程/条形图/highcharts_bar_negative.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts菜鸟教程/条形图/highcharts_bar_stacked.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts菜鸟教程/柱形图/highcharts_column_basic.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts菜鸟教程/柱形图/highcharts_column_drilldown.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts菜鸟教程/柱形图/highcharts_column_fixed.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts菜鸟教程/柱形图/highcharts_column_negative.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts菜鸟教程/柱形图/highcharts_column_percentage.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts菜鸟教程/柱形图/highcharts_column_range.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts菜鸟教程/柱形图/highcharts_column_rotated.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts菜鸟教程/柱形图/highcharts_column_rotated.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts菜鸟教程/柱形图/highcharts_column_stacked.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts菜鸟教程/柱形图/highcharts_column_table.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts菜鸟教程/树状图/highcharts_tree_largemap.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts菜鸟教程/树状图/highcharts_tree_levels.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts菜鸟教程/树状图/highcharts_tree_map.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts菜鸟教程/气泡图/highcharts_bubble_3d.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts菜鸟教程/气泡图/highcharts_bubble_basic.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts菜鸟教程/测量图/highcharts_guage_angular.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts菜鸟教程/测量图/highcharts_guage_clock.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts菜鸟教程/测量图/highcharts_guage_dualaxes.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts菜鸟教程/测量图/highcharts_guage_solid.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts菜鸟教程/测量图/highcharts_vumeter.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts菜鸟教程/组合图/highcharts_combinations_axes.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts菜鸟教程/组合图/highcharts_combinations_column.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts菜鸟教程/组合图/highcharts_combinations_dualaxes.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts菜鸟教程/组合图/highcharts_combinations_scatter.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts论坛爬虫/highcharts_forum.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts论坛爬虫/highcharts_forum.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/Highcharts论坛爬虫/hightcharts series接收动态数据问题/T1_3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/REST_API_20181228/.idea/REST_API_20181228.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/REST_API_20181228/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/REST_API_20181228/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/REST_API_20181228/20150529143226385" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/REST_API_20181228/REST_Chat/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/REST_API_20181228/REST_Chat/js/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/REST_API_20181228/note.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/jquery菜鸟教程/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/jquery菜鸟教程/.idea/jquery菜鸟教程.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/jquery菜鸟教程/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/jquery菜鸟教程/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/jquery菜鸟教程/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/jquery菜鸟教程/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/jquery菜鸟教程/Query 教程/note.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/jquery菜鸟教程/Query 教程/t.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/jquery菜鸟教程/jQuery - AJAX 简介/note.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/jquery菜鸟教程/jQuery - AJAX 简介/static/demo_test.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/jquery菜鸟教程/jQuery - AJAX 简介/t.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/jquery菜鸟教程/jQuery - 删除元素/note.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/jquery菜鸟教程/jQuery - 删除元素/t.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/jquery菜鸟教程/jQuery - 添加元素/note.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/jquery菜鸟教程/jQuery - 添加元素/t.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/jquery菜鸟教程/jQuery - 获取内容和属性/note.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/jquery菜鸟教程/jQuery - 获取内容和属性/t.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/jquery菜鸟教程/jQuery - 获取并设置 CSS 类/note.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/jquery菜鸟教程/jQuery - 获取并设置 CSS 类/t.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/jquery菜鸟教程/jQuery - 链(Chaining)/note.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/jquery菜鸟教程/jQuery - 链(Chaining)/t.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/jquery菜鸟教程/jQuery Callback 方法/note.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/jquery菜鸟教程/jQuery Callback 方法/t.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/jquery菜鸟教程/jQuery css() 方法/note.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/jquery菜鸟教程/jQuery css() 方法/t.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/jquery菜鸟教程/jQuery 事件/note.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/jquery菜鸟教程/jQuery 事件/t.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/jquery菜鸟教程/jQuery 停止动画/note.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/jquery菜鸟教程/jQuery 停止动画/t.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/jquery菜鸟教程/jQuery 安装/note.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/jquery菜鸟教程/jQuery 安装/t.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/jquery菜鸟教程/jQuery 尺寸.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/jquery菜鸟教程/jQuery 尺寸/note.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/jquery菜鸟教程/jQuery 尺寸/t.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/jquery菜鸟教程/jQuery 效果 - 淡入淡出/note.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/jquery菜鸟教程/jQuery 效果 - 淡入淡出/t.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/jquery菜鸟教程/jQuery 效果 - 滑动/note.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/jquery菜鸟教程/jQuery 效果 - 滑动/t.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/jquery菜鸟教程/jQuery 效果 – 动画/note.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/jquery菜鸟教程/jQuery 效果 – 动画/t.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/jquery菜鸟教程/jQuery 效果- 隐藏和显示/note.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/jquery菜鸟教程/jQuery 效果- 隐藏和显示/t.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/jquery菜鸟教程/jQuery 简介/note.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/jquery菜鸟教程/jQuery 简介/t.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/jquery菜鸟教程/jQuery 语法/note.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/jquery菜鸟教程/jQuery 语法/t.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/jquery菜鸟教程/jQuery 语法/两个入口函数的写法.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/jquery菜鸟教程/jQuery 选择器/note.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/jquery菜鸟教程/jQuery 选择器/t.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/jquery菜鸟教程/jQuery 遍历 - 祖先/note.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/jquery菜鸟教程/jQuery 遍历 - 祖先/t.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/jquery菜鸟教程/jQuery 遍历/note.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/jquery菜鸟教程/jQuery 遍历/t.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/jquery菜鸟教程/jquery遍历.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/前端如何调用接口数据/数据处理/1、 创建服务器接口.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/前端如何调用接口数据/数据处理/2、 初始化图表.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/前端如何调用接口数据/数据处理/2、jQury.get.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/前端如何调用接口数据/数据处理/3、 调用数据接口并更新图表.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/前端如何调用接口数据/数据处理/Ajax的restful接口传输Json数据的方法.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/前端如何调用接口数据/数据处理/JSON 文件内容.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/前端如何调用接口数据/数据处理/js ajax调用rest接口.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/前端如何调用接口数据/数据处理/web前端使用jQuery发送ajax请求并接受响应的代码公式.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/前端如何调用接口数据/数据处理/一、jQuery 中 Ajax 相关的函数.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/前端如何调用接口数据/数据处理/动态渲染的优缺点.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/前端如何调用接口数据/数据处理/导出数据的浏览器对比.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/前端如何调用接口数据/数据处理/数据处理和交互.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/前端如何调用接口数据/数据处理/数据来源.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/前端如何调用接口数据/数据处理/数据类型.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/前端如何调用接口数据/数据处理/服务端动态渲染图表.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/前端如何调用接口数据/数据处理/用 CSV 数据创建图表.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/前端如何调用接口数据/数据处理/读取 JSON 并创建图表.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/前端如何调用接口数据/深度截图_选择区域_20181220150858.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/前端如何调用接口数据/深度截图_选择区域_20181220150921.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/前端如何调用接口数据/深度截图_选择区域_20181220150952.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/前端如何调用接口数据/深度截图_选择区域_20181220151158.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/前端如何调用接口数据/深度截图_选择区域_20181220151236.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/前端如何调用接口数据/深度截图_选择区域_20181220151248.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/前端如何调用接口数据/深度截图_选择区域_20181220151402.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/前端如何调用接口数据/深度截图_选择区域_20181220151435.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/前端如何调用接口数据/深度截图_选择区域_20181220151448.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/前端如何调用接口数据/深度截图_选择区域_20181220151504.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/前端如何调用接口数据/深度截图_选择区域_20181220151601.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/前端如何调用接口数据/深度截图_选择区域_20181220151629.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/前端调用后端的方法(基于restful接口的mvc架构)/深度截图_选择区域_20181228141503.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/前端调用后端的方法(基于restful接口的mvc架构)/深度截图_选择区域_20181228141517.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/基于 RESTful 接口的前端 MVC 架构/rest-api-for-front-end.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/基于 RESTful 接口的前端 MVC 架构/深度截图_选择区域_20181228143102.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/基于 RESTful 接口的前端 MVC 架构/深度截图_选择区域_20181228143121.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/基于 RESTful 接口的前端 MVC 架构/深度截图_选择区域_20181228143132.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/基于 RESTful 接口的前端 MVC 架构/深度截图_选择区域_20181228143149.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/基于 RESTful 接口的前端 MVC 架构/深度截图_选择区域_20181228143221.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/基于 RESTful 接口的前端 MVC 架构/深度截图_选择区域_20181228143232.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/基于 RESTful 接口的前端 MVC 架构/深度截图_选择区域_20181228143249.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/接口请求爬虫测试（以及其他可用脚本）/S_db.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态可视化/接口请求爬虫测试（以及其他可用脚本）/api_spider.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/可视化的项目思路.xls" beforeDir="false" afterPath="$PROJECT_DIR$/可视化的项目思路.xls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/实践之路/接口清单列表.xls" beforeDir="false" afterPath="$PROJECT_DIR$/实践之路/接口清单列表.xls" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -239,34 +12,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/实践之路/restulapi_t/app.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="31" column="20" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
-              <folding>
-                <element signature="e#2#49#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/实践之路/restulapi_t/templates/common_api.html">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/实践之路/restulapi_t/static/common_api.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="262">
-              <caret line="41" column="15" selection-start-line="41" selection-start-column="15" selection-end-line="41" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -300,23 +46,42 @@
         <option value="$PROJECT_DIR$/实践之路/restulapi_t/J225_data.py" />
         <option value="$PROJECT_DIR$/实践之路/restulapi_t/dataConfig.py" />
         <option value="$PROJECT_DIR$/实践之路/restulapi_t/app.py" />
+        <option value="$PROJECT_DIR$/watch_ajax.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="167" />
-    <option name="y" value="184" />
-    <option name="width" value="1046" />
-    <option name="height" value="620" />
+    <option name="x" value="757" />
+    <option name="y" value="89" />
+    <option name="width" value="1056" />
+    <option name="height" value="608" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DataVisualizations" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataVisualizations" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataVisualizations" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataVisualizations" type="462c0819:PsiDirectoryNode" />
+              <item name="实践之路" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/实践之路/A股接口尝试编写" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/实践之路/web接口开发与自动化测试基于python语言" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -331,7 +96,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.app (2)">
+  <component name="RunManager" selected="Python.Astock_backApi">
+    <configuration name="Astock_backApi" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DataVisualizations" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/实践之路/A股接口尝试编写" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/实践之路/A股接口尝试编写/Astock_backApi.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="app (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DataVisualizations" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -416,34 +202,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="note" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="DataVisualizations" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/note.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Astock_backApi" />
         <item itemvalue="Python.app (2)" />
         <item itemvalue="Python.app (1)" />
         <item itemvalue="Python.app" />
         <item itemvalue="Python.highcharts_forum" />
-        <item itemvalue="Python.note" />
       </list>
     </recent_temporary>
   </component>
@@ -462,14 +227,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="718" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.24981412" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24981412" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31175467" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31175467" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39863715" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -482,6 +246,17 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/实践之路/restulapi_t/app.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/note.py">
@@ -520,13 +295,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/watch_ajax.py" />
     <entry file="file://$PROJECT_DIR$/实践之路/restulapi_t/app.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
+        <state relative-caret-position="317">
           <caret line="31" column="20" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
           <folding>
             <element signature="e#2#49#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/实践之路/A股接口尝试编写/Astock_backApi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
         </state>
       </provider>
     </entry>

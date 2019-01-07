@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2ae76b8b-ebfe-4fe3-a0d6-2c60b19d7022" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../接口清单列表.xls" beforeDir="false" afterPath="$PROJECT_DIR$/../接口清单列表.xls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/.idea/web接口开发与自动化测试基于python语言.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/1.python学习必知/file1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/1.python学习必知/file2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/1.python学习必知/file3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/1.python学习必知/file4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/1.python学习必知/file5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/13.REST/file1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/13.REST/file2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/13.REST/file3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/13.REST/file4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/13.REST/file5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/14.django项目部署/file1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/14.django项目部署/file2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/14.django项目部署/file3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/14.django项目部署/file4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/14.django项目部署/file5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/2.django入门/file1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/2.django入门/file2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/2.django入门/file3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/2.django入门/file4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/2.django入门/file5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/guest/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/guest/guest/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/guest/guest/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/guest/guest/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/guest/guest/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/guest/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/guest/sign/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/guest/sign/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/guest/sign/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/guest/sign/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/guest/sign/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/guest/sign/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/guest/sign/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/guest/sign/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/１０．接口自动化测试框架/file1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/１０．接口自动化测试框架/file2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/１０．接口自动化测试框架/file3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/１０．接口自动化测试框架/file4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/１０．接口自动化测试框架/file5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/１１．接口的安全机制/file1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/１１．接口的安全机制/file2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/１１．接口的安全机制/file3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/１１．接口的安全机制/file4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/１１．接口的安全机制/file5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/１２．web services/file1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/１２．web services/file2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/１２．web services/file3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/１２．web services/file4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/１２．web services/file5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/１５．接口性能测试/file1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/１５．接口性能测试/file2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/１５．接口性能测试/file3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/１５．接口性能测试/file4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/１５．接口性能测试/file5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/３．django视图/file1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/３．django视图/file2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/３．django视图/file3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/３．django视图/file4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/３．django视图/file5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/４．django模型/file1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/４．django模型/file2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/４．django模型/file3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/４．django模型/file4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/４．django模型/file5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/５．django模板/file1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/５．django模板/file2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/５．django模板/file3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/５．django模板/file4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/５．django模板/file5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/６．django测试/file1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/６．django测试/file2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/６．django测试/file3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/６．django测试/file4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/６．django测试/file5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/７．接口相关概念/file1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/７．接口相关概念/file2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/７．接口相关概念/file3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/７．接口相关概念/file4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/７．接口相关概念/file5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/８．开发web接口/file1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/８．开发web接口/file2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/８．开发web接口/file3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/８．开发web接口/file4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/８．开发web接口/file5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/９．接口测试工具介绍/file1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/９．接口测试工具介绍/file2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/９．接口测试工具介绍/file3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/９．接口测试工具介绍/file4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../理论探讨/web接口开发与自动化测试基于python语言/９．接口测试工具介绍/file5.py" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2.django入门/file1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="92" selection-start-line="92" selection-end-line="92" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/３．django视图/file1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="45" column="2" selection-start-line="45" selection-start-column="2" selection-end-line="45" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/guest/sign/templates/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/guest/guest/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="49" column="61" selection-start-line="49" selection-start-column="61" selection-end-line="50" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/guest/guest/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+              <folding>
+                <element signature="e#639#671#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/guest/sign/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>csrf</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/1.python学习必知/file1.py" />
+        <option value="$PROJECT_DIR$/guest/guest/settings.py" />
+        <option value="$PROJECT_DIR$/2.django入门/file1.py" />
+        <option value="$PROJECT_DIR$/guest/sign/templates/index.html" />
+        <option value="$PROJECT_DIR$/３．django视图/file1.py" />
+        <option value="$PROJECT_DIR$/guest/guest/urls.py" />
+        <option value="$PROJECT_DIR$/guest/sign/views.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="757" />
+    <option name="y" value="89" />
+    <option name="width" value="1056" />
+    <option name="height" value="608" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="web接口开发与自动化测试基于python语言" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web接口开发与自动化测试基于python语言" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web接口开发与自动化测试基于python语言" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web接口开发与自动化测试基于python语言" type="462c0819:PsiDirectoryNode" />
+              <item name="1.python学习必知" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web接口开发与自动化测试基于python语言" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web接口开发与自动化测试基于python语言" type="462c0819:PsiDirectoryNode" />
+              <item name="2.django入门" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web接口开发与自动化测试基于python语言" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web接口开发与自动化测试基于python语言" type="462c0819:PsiDirectoryNode" />
+              <item name="guest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web接口开发与自动化测试基于python语言" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web接口开发与自动化测试基于python语言" type="462c0819:PsiDirectoryNode" />
+              <item name="guest" type="462c0819:PsiDirectoryNode" />
+              <item name="guest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web接口开发与自动化测试基于python语言" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web接口开发与自动化测试基于python语言" type="462c0819:PsiDirectoryNode" />
+              <item name="guest" type="462c0819:PsiDirectoryNode" />
+              <item name="sign" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web接口开发与自动化测试基于python语言" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web接口开发与自动化测试基于python语言" type="462c0819:PsiDirectoryNode" />
+              <item name="guest" type="462c0819:PsiDirectoryNode" />
+              <item name="sign" type="462c0819:PsiDirectoryNode" />
+              <item name="migrations" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web接口开发与自动化测试基于python语言" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web接口开发与自动化测试基于python语言" type="462c0819:PsiDirectoryNode" />
+              <item name="guest" type="462c0819:PsiDirectoryNode" />
+              <item name="sign" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web接口开发与自动化测试基于python语言" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web接口开发与自动化测试基于python语言" type="462c0819:PsiDirectoryNode" />
+              <item name="３．django视图" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ae76b8b-ebfe-4fe3-a0d6-2c60b19d7022" name="Default Changelist" comment="" />
+      <created>1546580955415</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1546580955415</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1366" height="718" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19033457" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.14821124" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/1.python学习必知/file1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.django入门/file1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="92" selection-start-line="92" selection-end-line="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guest/guest/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="49" column="61" selection-start-line="49" selection-start-column="61" selection-end-line="50" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guest/sign/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guest/guest/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+          <folding>
+            <element signature="e#639#671#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guest/sign/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/３．django视图/file1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="45" column="2" selection-start-line="45" selection-start-column="2" selection-end-line="45" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
