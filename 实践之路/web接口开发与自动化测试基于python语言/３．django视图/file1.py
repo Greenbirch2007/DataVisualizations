@@ -54,5 +54,50 @@
 
 # 登录请求由views.py视图文件的login_action函数来处理，打开views.py文件，编写login_action视图函数
 
+# 通过login_action函数来处理登录请求
+# 客户端发送的请求信息全部包含在request中.关于如何获取request中包含的信息,
+
+# 首先,通过request.method得到客户端的请求方式,并判断其是否为POST方式的秦秋
+# 接着,通过request.POST来获取POST请求.通过.get()方法获取'username'和'password'所获取的用户名/密码(admin/admin123).
+# 如果参数为空,则返回一个空的字符串
+
+# 注,此处的"username"和"password"对应form表单中<input>标签的name属性,可见这个属性的重要性
+
+
+#  最后,通过if语句判断username和password的值是否为"admin/admin123".如果是则通过HttpResponse类返回字符串"login success!"
+# 否则,将通过render返回index.html登录页面,并且顺带返回错误提示的字典"{'error':'username or password error!'}"
+
+# 使用django的模板而言,添加{{error}},它对应render返回字典中的key,即'error',登录失败的页面中显示对应的value,即"username or password error!"
+#  现在来体验下登录功能,分别看看登录成功和是吧的效果
+
+
+#　３．１．３　登录成功页面
+
+
+#  登录成功返回的"login success!"　字符串只是一种临时方案，只是为了方便验证登录的处理逻辑，现在验证没有问题之后，需要通过HTML页面来替换
+
+#　我们要开发的是发布会签到系统，那么登录之后默认应该是什么？应该是显示发布会管理页面．
+
+
+#　首先，创建　event_manage.html页面
+# 此处又用到了一个新的类HttpResponseRedirect，它可以对路径进行重定向从而在登录成功之后的请求指向/event_manage/目录，
+#　即 http://127.0.0.1:8000/event_manage/
+
+#　创建event_manage.html.,用于返回发布会管理页面event_manage.html
+
+#　最后在urls.py中添加路由
+
+#  #3.2  Cookie和Session
+
+
+# cookie机制:cookie分发通过扩展http协议来实现的,服务器通过在http的响应头中加上一行特殊的指示来提示浏览器按照指示生成响应的cookie
+# 而cookie的使用则是由浏览器按照一定的原则在后台自动发送给服务器.浏览器检查所有存储的cookie,如果某个cookie所声明的作用范围大于等于
+# 将要请求请求的资源所在的位置,则把该cookie附在请求资源的http请求头上发送给服务器
+
+# session机制:session机制是一种服务器端的机制,服务器使用一种类似散列表的结构来保存信息
+
+# 3.2.1  cookie的使用
+
+# 修改views
 
 

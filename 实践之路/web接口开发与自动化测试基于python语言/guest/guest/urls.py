@@ -20,6 +20,7 @@ from sign import views # 导入sign应用到views文件
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
     url(r"^index/$",views.index), # 添加index/路径配置
-    url(r"login_action/$",views.login_action), # 处理登录请求的路径
+    url(r"^login_aciton/$",views.login_aciton), # 处理登录请求的路径
+    url(r"^event_manage/$",views.event_manage),
 
 ]
