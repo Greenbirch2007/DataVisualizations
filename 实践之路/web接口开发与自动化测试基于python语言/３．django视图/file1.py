@@ -99,5 +99,53 @@
 # 3.2.1  cookie的使用
 
 # 修改views
+# 当用户登录成功后,在跳转到event_manage视图函数的过程中,通过set_cookie()方法向浏览器中添加cookie信息
+
+# 这里给set_cookie()方法传了三个参数:第一个参数"user" 用于表示写入浏览器的cookie名,第二个参数username是由用户在登录页上输入的用户名(即"admin")
+#  第三个参数3600用于设置cookie信息在浏览器中的保持时间,默认单位秒
+
+#  在event_manage视图函数中,通过request.COOKIES来读取cookie名为"user"的值.且通过render将它和event_manage.html页面一起返回
+
+#  添加<div>标签来显示用户名
+
+
+#　３．２．２　　session的使用
+
+#  cookie虽然好，但是存在一定的安全隐患．即浏览器中会保存所有用户的信息
+
+
+#  session更安全（即浏览器只保留一个sessinoid）　保存在web服务器端，只保留一个sessionid并没有什么意义
+
+
+#  在django中使用session和cookie类似，只需要替换即可
+
+
+# no such table:django_session
+
+#  这个错误跟session的机制有关，既然要从web浏览器来记录用户的信息，那么定义要有存放用户sessionid对应信息的地方才行．所以我们需要创建django_session表
+
+#  需要用 python manage.py migrate 来生成
+
+
+#  通过"migrate"命令进行数据库亲爱，django默认使用　sqlite3数据库的配置
+
+#  ３．３　　django认证系统
+
+#  虽然实现了登录功能，但用户登录信息的验证是有问题的，目前的做法是用if语句判断用户和密码是否为"admin/admin123"
+#  本节会使用django的认证系统来实现真正的用户信息验证
+
+
+#  ３．３．１　　登录admin后台
+
+
+#  migrate进行数据迁移时，django同时也生成了auth_user表，该表中存放的用互信息你可以用来登录django自带的admin管理后台．
+#  在此之前先来创建登录admin后台的管理元账号
+
+#   python manage.py createsuperuser
+
+
+# 3.3.2  引用django认证登录
+
+# django已经帮我封装好了用户认证和登录的相关方法，只需
 
 
