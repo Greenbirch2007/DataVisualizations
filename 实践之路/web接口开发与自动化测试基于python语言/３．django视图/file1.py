@@ -146,6 +146,19 @@
 
 # 3.3.2  引用django认证登录
 
-# django已经帮我封装好了用户认证和登录的相关方法，只需
+# django已经帮我封装好了用户认证和登录的相关方法，只需拿来使用即可．并且，同样使用auth_user表中的数据进行验证，前面已经通过Admin后台
+#  向该表中添加了用户信息
+
+
+#  修改login_action函数
+
+
+#  使用authenticate()函数认证给出的用户名和密码，它接受两个参数：username和password,并且会在用户名密码正确的情况下返回一个user对象
+#  否则authenticate()返回None
+# 通过if语句怕暖authenticate()返回对象，如果不为None,则说明用户认证通过，调用login()函数进行登录．login()函数接受HttpRequest对象和一个user对象
+
+# 3.3.3  关上窗户 对视图函数使用装饰器＠login_reuired
+
+
 
 
