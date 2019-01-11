@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="eced1a27-efc4-4702-bf9f-43e3657fedf6" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web接口开发与自动化测试基于python语言/guest/sign/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/web接口开发与自动化测试基于python语言/guest/sign/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web接口开发与自动化测试基于python语言/３．django视图/file1.py" beforeDir="false" afterPath="$PROJECT_DIR$/web接口开发与自动化测试基于python语言/３．django视图/file1.py" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web接口开发与自动化测试基于python语言/３．django视图/file1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="295">
-              <caret line="159" column="38" lean-forward="true" selection-start-line="159" selection-start-column="14" selection-end-line="159" selection-end-column="38" />
+            <state relative-caret-position="250">
+              <caret line="147" selection-start-line="147" selection-end-line="147" />
             </state>
           </provider>
         </entry>
@@ -85,10 +83,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="522" />
-    <option name="y" value="88" />
-    <option name="width" value="1036" />
-    <option name="height" value="630" />
+    <option name="x" value="71" />
+    <option name="y" value="78" />
+    <option name="width" value="1026" />
+    <option name="height" value="640" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -96,6 +94,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -144,13 +143,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/a50_onestock.py" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Recoding_Qt" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RunDashboard">
@@ -188,7 +186,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="718" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19033457" />
       <window_info id="Structure" order="1" weight="0.25" />
@@ -269,6 +266,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/web接口开发与自动化测试基于python语言/３．django视图/file1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="147" selection-start-line="147" selection-end-line="147" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/web接口开发与自动化测试基于python语言/guest/sign/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -288,18 +292,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web接口开发与自动化测试基于python语言/guest/sign/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
+        <state relative-caret-position="300">
           <caret line="23" selection-start-line="23" selection-end-line="23" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web接口开发与自动化测试基于python语言/３．django视图/file1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="156" column="25" selection-start-line="156" selection-start-column="25" selection-end-line="156" selection-end-column="25" />
         </state>
       </provider>
     </entry>

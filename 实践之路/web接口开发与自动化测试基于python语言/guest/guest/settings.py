@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'sign',
+    'bootstrap3',
 ]
 
 MIDDLEWARE = [
@@ -70,7 +71,7 @@ TEMPLATES = [
 
 WSGI_APPLICATION = 'guest.wsgi.application'
 
-
+#
 # Database
 # https://docs.djangoproject.com/en/1.10/ref/settings/#databases
 
@@ -81,6 +82,20 @@ DATABASES = {
     }
 }
 
+# DATABASES = {
+#     'default':{
+#         'ENGINE':'django.db.backends.mysql',
+#         'HOST':'127.0.0.1',
+#         'PORT':'3306',
+#         'NAME':'guest',
+#         'USER':'root',
+#         'POSSWORD':'123456',
+#         'OPTIONS':{
+#             'init_command':"SET sql_mode= 'STRICT_TRANS_TABLES'",
+#
+#         },
+#     }
+# }
 
 # Password validation
 # https://docs.djangoproject.com/en/1.10/ref/settings/#auth-password-validators
@@ -112,7 +127,7 @@ USE_I18N = True
 
 USE_L10N = True
 
-USE_TZ = True
+USE_TZ = False
 
 
 # Static files (CSS, JavaScript, Images)

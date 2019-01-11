@@ -22,5 +22,9 @@ urlpatterns = [
     url(r"^index/$",views.index), # 添加index/路径配置
     url(r"^login_aciton/$",views.login_aciton), # 处理登录请求的路径
     url(r"^event_manage/$",views.event_manage),
+    url(r"^accounts/login/$",views.index),
+    url(r"^search_name/$",views.search_name),
+    url(r"^guest_manage/$",views.guest_manage),
+
 
 ]
