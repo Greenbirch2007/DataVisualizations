@@ -3,8 +3,9 @@ from django.db import models
 # Create your models here.
 
 
+#  发布会
 
-# 发布会表
+
 class Event(models.Model):
     name = models.CharField(max_length=100) #发布会标题
     limit = models.IntegerField() #参加人数

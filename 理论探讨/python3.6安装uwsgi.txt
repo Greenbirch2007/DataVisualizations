@@ -1,0 +1,8 @@
+$ sudo apt-get install libpython3.6-dev 
+再次执行
+
+$ pip install uwsgi
+测试uwsgi是否安装成功完成
+
+$ uwsgi --version
+2.0.17
