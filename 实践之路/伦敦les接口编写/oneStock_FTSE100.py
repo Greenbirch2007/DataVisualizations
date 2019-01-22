@@ -25,7 +25,7 @@ index_Future_N = int(index_Cash/3587)  # 向下取整
 index_cost = 6830
 stock_cost = 2550
 
-# 2019.1.17 ——————FTFE100指数模型测试
+# 2019.1.17 远兴能源——————FTFE100指数模型测试
 
 
 def get_index_PL():
