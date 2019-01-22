@@ -25,7 +25,7 @@ index_Future_N = int(index_Cash/3587)  # 向下取整
 index_cost = 6830
 stock_cost = 2550
 
-# 2019.1.17 远兴能源——————FTFE100指数模型测试
+# 2019.1.17 ——————FTFE100指数模型测试
 
 
 def get_index_PL():
@@ -74,10 +74,10 @@ def profilo_PL():
         profilo_PL_2 = round(profilo_PL, 2)
         big_list.append(profilo_PL_2)
         total_profit_R = profilo_PL_2 / total_Cash
-        # total_profit_R_2 = '%.2f%%' % (total_profit_R * 100)  这个是为加上　％
-        total_profit_R_2 = round(total_profit_R, 3)   # 这个最简单
+        total_profit_R_100 = total_profit_R *100 # 先换算成100进制
+        total_profit_R_3 = round(total_profit_R_100, 3)   # 再保留3位数
 
-        big_list.append(total_profit_R_2)
+        big_list.append(total_profit_R_3)
 
     except IndexError as e:
         print(e)
