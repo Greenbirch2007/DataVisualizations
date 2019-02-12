@@ -7,15 +7,24 @@ $.getJSON('http://127.0.0.1:5000/astock',function (content) {
 
      var chart = Highcharts.chart('container', {
        title: {
+
            text: '可视化测试'
        },
        subtitle: {
-           text: '数据来源：本地mysql'
+           text: '进场成本-21.3'
        },
        yAxis: {
+           opposite:true,
            title: {
                text: '收益率'
-           }
+           },
+           plotLines:[{
+               color:'red',           //线的颜色，定义为红色
+               dashStyle:'Dash',     //默认值，这里定义为实线
+               value:-21.3,               //定义在那个值上显示标示线，这里是在x轴上刻度为3的值处垂直化一条线
+               width:2                //标示线的宽度，2px
+           }]
+
        },
        legend: {
            layout: 'vertical',
